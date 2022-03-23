@@ -15,4 +15,4 @@ class Order(models.Model):
 
     def __str__(self):
         return self.product_name
-# Create your models here.
+
